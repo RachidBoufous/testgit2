@@ -1,3 +1,5 @@
+import java.security.spec.RSAOtherPrimeInfo;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -7,5 +9,13 @@ public class Main {
         System.out.print("test");
         System.out.print("test");
         System.out.print("test");
+
+        System.out.print("test");
+        System.out.print("test");
+        System.out.print("test");
+        System.out.print("test");
+        System.out.print("test");
+        System.out.println("test 123121");
+
     }
 }
